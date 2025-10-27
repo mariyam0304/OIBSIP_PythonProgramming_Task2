@@ -57,5 +57,5 @@ matplotlib
 Author
 
 Mariyam Shakir — Oasis Infobyte Intern (Python Programming)
-source venv/bin/activate
+
 
